@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "new-user",
+    "DB_PASSWORD": "bzV2mq93yFemKJDt",
+    "DB_NAME": "mern"
+  }
+}
